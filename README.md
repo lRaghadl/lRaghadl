@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lRaghadl
+- 👀 I’m interested in Artificial intelligence , Data scince
+- 💕 I’m currently learning Data Analysis
