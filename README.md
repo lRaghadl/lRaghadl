@@ -1,3 +1,5 @@
 - 👋 Hi, I’m @lRaghadl
 - 👀 I’m interested in Artificial intelligence , Data scince
-- 💕 I’m currently learning Data Analysis
+- 💕 I’m currently learning Data Science
+- 👩‍💻 I'm Looking for a summer internship and co-op 
+- ✨ Contact Information : Raghad_alqithmi@outlook.com 
